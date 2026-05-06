@@ -1,0 +1,9 @@
+numpy
+Pillow
+transformers==4.57.3
+diffusers
+accelerate
+safetensors
+tqdm
+einops
+peft
